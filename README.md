@@ -1,6 +1,6 @@
-# Project Overview: Capstone Project Module 3 
+# Project Overview: 
 
-The project in order to be requirement assignment by Purwadhika Startup School. The project is about building classification model for **customer churn detection**. The dataset name is **data_ecommerce_customer_churn.csv**. You can visit (https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction) to access the dataset. This project consists of the steps below.
+The project is about building classification model for **customer churn detection**. The dataset name is **data_ecommerce_customer_churn.csv**. You can visit (https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction) to access the dataset. This project consists of the steps below.
 - Business Problem Understanding
 - Data Understanding
 - Exploratory Data Analysis (EDA)
